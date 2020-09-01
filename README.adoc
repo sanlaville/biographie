@@ -1,0 +1,333 @@
+:toc:
+:toc-placement!:
+
+== Biographie
+
+Je suis passionné par le génie logiciel et tout ce qui permet de créer le meilleur produit logiciel possible (le bon produit, qui est bien fait avec des cycles courts). Pour cela, je suis un fan du https://en.wikipedia.org/wiki/Lean_product_development[Lean Product], de l'https://fr.wikipedia.org/wiki/Extreme_programming[eXtreme Programming], du https://fr.wikipedia.org/wiki/Software_craftsmanship[Software Craftsmanship], du https://en.wikipedia.org/wiki/Domain-driven_design[DDD], du déploiement continue, de l'amélioration continue, de l'apprentissage continue, du feedback rapide, de la gouvernance partagée, de la gestion des tensions, de l'intelligence collective, de la création d'un collectif... 
+
+J'ai participé à la création et l'organisation du https://www.meetup.com/fr-FR/CARA-Dojo/[Coding-Dojo à Grenoble] en 2009, du premier Code Retreat en France en 2011, du premier Legacy Code Retreat au monde en 2011 présenté par https://www.jbrains.ca/[J.B. Rainsberger], du premier atelier BDD en France en 2012 ainsi que des conférences https://snowcamp.io/fr/[SnowCamp] (depuis 2016) et https://www.alpescraft.fr/[AlpesCraft] (depuis 2019).
+
+
+== Cursus
+[%header, grid="none", frame="none", cols="1,1,8,>8"]
+|===
+2+|2011-2013 | |
+| 3+a|*BADGE, Business for Operational (Marketing, Finance, Comptabilité, Communication…)*
+| | 2+a|Formation proposée par Orange en partenariat avec l’ESIGELEC et Rouen Business School
+|===
+
+[%header, grid="none", frame="none", cols="1,1,3,8,3,8,>8"]
+|===
+3+|1998-2001 3+| Laboratoire Logiciels Systèmes Réseaux (LSR-IMAG) | Grenoble
+| 3+a|*Thèse d'informatique*	3+a| __Université Joseph Fourier Grenoble 1 (UJF)__
+| | 5+a|Architecture Logicielle : une expérience industrielle avec Dassault Systèmes
+| 6+a| __Sous la direction de Y. Ledru, Professeur à l’Université Joseph Fourier.__ +
+	   __Dans l’équipe Adèle dirigée par J. Estublier, Directeur de recherche au CNRS.__ 
+|===	
+
+[%header, grid="none", frame="none", cols="1,1,3,8,3,8,>8"]
+|===
+7+|1994-1997 
+| 4+a|*D.E.A. Informatique Systèmes et Communication* 2+| Mention Assez-Bien
+| | 4+a|__Université Joseph Fourier Grenoble 1 (UJF)__ 							   | Grenoble
+| 4+a| *Magistère Informatique et Modélisation*       2+| Mention Assez-Bien
+| | 4+a|__3ème année de Magistère : Université Joseph Fourier Grenoble 1 (UJF)__ + 
+		__1ère et 2ème année de Magistère : Ecole Normale Supérieure de Lyon (ENSL)__ a| Grenoble + 
+																					 Lyon 
+|===
+
+== Formations
+__A venir : https://www.processcommunication.fr/[Process COM ]en Octobre 2020...__
+
+[%header, grid="none", frame="none", cols="1,8, 6,>4"]
+|===
+2+|Communication NonViolente (CNV)  |Thomas d’Ansembourg |Mars 2020
+| 3+a|__Séminaire d'introduction à la CNV de 3 journées animé par https://www.thomasdansembourg.com/[Thomas d'Ansembourg].__
+|===
+
+[%header, grid="none", frame="none", cols="1,8,6,>4"]
+|===
+2+|Questiologie |Frédéric Falisse |Janvier 2020
+| 3+a|__La https://www.questiologie.fr/[Questiologie] est un outil de communication innovant, différenciant et pragmatique. Elle a pour ambition d’éveiller cette intelligence à poser des questions plus pertinentes afin de découvrir de nouveaux possibles, de nouvelles perspectives de développement personnel, relationnel ou professionnel.__
+
+__Formation délivrée par https://fr.linkedin.com/in/fr%C3%A9d%C3%A9ric-falisse-40318017[Frédéric Falisse] créateur de la https://www.questiologie.fr/[Questiologie].	__
+|===
+
+[%header, grid="none", frame="none", cols="1,8,6,>4"]
+|===
+2+|Comprendre ces violences qui m’habitent |Margalida Reus |Novembre 2019
+| 3+a|__Pour être des artisans de paix, il nous faut un travail sur nous-mêmes, sur la compréhension de notre histoire personnelle. Comprendre aussi comment l’être humain fonctionne.
+L’origine de la violence, c’est en nous-mêmes qu’il faut la chercher. La société est formée d’hommes et de femmes comme nous. Pour comprendre ce qui peut amener une société vers la violence, il faut d’abord comprendre les hommes et les femmes qui la composent.__
+|===
+
+[%header, grid="none", frame="none", cols="1,8,6,>4"]
+|===
+2+|Les Ateliers du Nous « AdN » |Université du Nous |Juin 2017
+| 3+a|__https://hum-hum-hum.fr/notre-offre-d-accompagnement/offre-atelier-du-nous/[L’AdN], séminaire expérientiel de 3,5 jours en résidentiel, vous permet de plonger concrètement dans les enjeux et les écueils du changement des organisations dans leur structure organisationnelle, de management et de communication. L’intention est d’expérimenter le changement de paradigme que propose la gouvernance partagée, en terme d’outils mais aussi et surtout de posture.__
+
+__Formation délivrée par l'http://universite-du-nous.org/[Université du Nous].__
+
+|===
+
+[%header, grid="none", frame="none", cols="1,8,6,>4"]
+|===
+2+|Innover par la pratique : Innovation Games |Raphaël Goumot - Karine Soulebot |Janvier 2017
+| 3+a|__https://www.innovationgames.com/[INNOVATION GAMES]® : Innover par la pratique et diffuser une culture d'innovation collaborative.__
+|===
+
+
+[%header, grid="none", frame="none", cols="1,8,6,>4"]
+|===
+2+|Reducing Technical Debt |Michael Feathers |Juin 2014
+| 3+a|__Technical Debt is a catch-all term that we use for entropy in software development. Systems grow, become unruly, and difficult to work with. When this happens, we often know that we can do better, but it is hard to take concrete actions which help us get a strong a sense of control over the evoluton of an entire code base.__
+
+__In this course, https://michaelfeathers.silvrback.com/bio[Michael Feathers] will outline what he has learned about making big changes in large software projects. You'll learn techniques all along the continuum of team coordinated refactoring, rewriting, and advanced team practice which help you maximize the potential of your existing code base. This is material beyond what Michael outlined in his classic book "https://www.oreilly.com/library/view/working-effectively-with/0131177052/[Working Effectively in Legacy Code]" and instead focuses on large scale change!__
+|===
+
+[%header, grid="none", frame="none", cols="1,8,6,>4"]
+|===
+2+|Specification by Examples |Gojko Adzic |Novembre 2012
+| 3+a|__The workshop teaches you how to apply specification by example to bridge the communication gap between stakeholders and implementation teams, build quality into software from the start, design, develop and deliver systems fit for purpose.__
+|===
+
+== Loisirs
+[%rotate, grid="none", frame="none", cols="1h,8"]
+|===
+|Jeux     | Membre de la maison des jeux de Grenoble (2000 à 2005)
+|Musique a| Piano, chorale, solfège, percussion +
+		   Chef de Choeur de la chorale du site d'Orange Labs à Meylan (depuis 2004)
+|Danse    | Danse de Salon (2004 à 2007)
+|Sport    | Randonnée, ski, roller, squash, tennis...
+|Autres  a|Conseiller Syndical de la Résidence Elodia (2006 à 2012) +
+            Sociétaire de https://www.lanef.com/[la Nef], une coopérative financière qui est en chemin pour devenir une banque éthique. (depuis 2008)
+|===
+
+== Communautés
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Software Craftsmanship |Grenoble |Depuis Juillet 2017
+| 3+a|Membre actif du https://www.meetup.com/fr-FR/Software-Craftsmanship-Grenoble/[Software Craftsmanship de Grenoble].
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Coding Dojo |Grenoble |Depuis Janvier 2009
+| 3+a|Mise en place et organisateur du https://www.meetup.com/fr-FR/CARA-Dojo/[Coding Dojo de Grenoble].
+|===
+		
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Developpez.com | |De 2008 à 2011
+| 3+a|Membre de l'équipe developpez.com en tant que modérateur pour les forums maven 2 et intégration continue.
+|===
+
+		
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|CARA (Club Agile Rhône-Alpes) | |De 2008 à 2011
+| 3+a|Membre actif du https://www.clubagilerhonealpes.org/[CARA] (Club Agile Rhône-Alpes) au début de sa création.
+|===
+				
+
+== Evénements
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Atelier BDD |Meylan |Février 2012
+| 3+a|Lancement de la communauté BDD sur Grenoble via le premier atelier BDD en France en 2012 dans les locaux d’Orange Labs à Meylan.
+|===
+		
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Legacy Code Retreat |Meylan |Novembre 2011
+| 3+a|Coorganisateur du premier Legacy Code Retreat au monde en 2011 animé par https://www.jbrains.ca/[J.B. Rainsberger] dans les locaux d’Orange Labs à Meylan.
+|===
+		
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Code Retreat |Meylan |Janvier 2011
+| 3+a|Coorganisateur du premier Code Retreat en France via le https://www.meetup.com/fr-FR/CARA-Dojo/[Coding Dojo de Grenoble].
+|===
+
+
+== Conférences
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Agile Grenoble |Grenoble |Novembre 2019
+| 3+a|Contraintes et jeux sociaux pour des dojos au top ! +
+       Bastien DAVID - Johan MARTINSSON – Rémy SANLAVILLE
+|===
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|SoCraTes-FR |Château de Massillan (Drôme) |Octobre 2019
+| 3+a|Participation à la conférence sur le Software Craftsmanship and Testing qui se déroule en open space.
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|AlpesCraft |Grenoble |Juin 2019
+| 3+a|[Atelier] Master Your IDE +
+       Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|MIXIT |Lyon |Mai 2019
+| 3+a|Contraintes et jeux sociaux pour des dojos au top ! +
+       Bastien DAVID - Johan MARTINSSON – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|SoCraTes-FR |Château de Massillan (Drôme) |Octobre 2018
+| 3+a|Participation à la conférence sur le Software Craftsmanship and Testing qui se déroule en open space.
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|SoCraTes-FR |Château de Rochegude (Drôme) |Octobre 2017
+| 3+a|Participation à la conférence sur le Software Craftsmanship and Testing qui se déroule en open space.
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Agile Grenoble |Grenoble |Novembre 2016
+| 3+a|Agile Lab - Session PO - Dev +
+       [Atelier] Délivrer rapidement un produit de qualité +
+       Charles BOUTTAZ - Johan MARTINSSON – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|SoCraTes-FR |Château de Rochegude (Drôme) |Septembre 2016
+| 3+a|Participation à la conférence sur le Software Craftsmanship and Testing qui se déroule en open space.
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Agile Toulouse |Toulouse |Novembre 2015
+| 3+a|Refactorer du legacy, même pas peur ! +
+       Johan MARTINSSON – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|SoCraTes-FR |Château de Rochegude (Drôme) |Septembre 2015
+| 3+a|Participation à la conférence sur le Software Craftsmanship and Testing qui se déroule en open space.
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Agile Grenoble |Grenoble |Novembre 2014
+| 3+a|Refactorer du legacy, même pas peur ! +
+       Johan MARTINSSON – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Agile Tour Bordeaux |Bordeaux |Octobre 2014
+| 3+a|Refactorer du legacy, même pas peur ! +
+       Johan MARTINSSON – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Soft-Shake |Genève |Octobre 2014
+| 3+a|Refactorer du legacy, même pas peur ! +
+       Johan MARTINSSON – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|I T.A.K.E. |Bucharest |Mai 2014
+| 3+a|[Workshop] 100% Confident with Legacy Code (Anonymous Developers - Season 2) +
+       Johan MARTINSSON – Rémy SANLAVILLE
+| 3+a|Hexagonal Architecture +
+       Johan MARTINSSON – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|ALE |Bucharest |Août 2013
+| 3+a|Object Calisthenics on Legacy Code +
+       Johan MARTINSSON – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Mix IT |Lyon |Avril 2013
+| 3+a|[Atelier] Développeurs Anonymes +
+       Johan MARTINSSON – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Joy Of Coding |Rotterdam (NL) |Mars 2013
+| 3+a|[Hands-on] Developers Anonymous +
+       Johan MARTINSSON – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Agile Grenoble |Grenoble |Novembre 2012
+| 3+a|Changer pour mieux coder +
+      Johan MARTINSSON – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Mix IT |Lyon |Avril 2011
+| 3+a|[Atelier] Code Retreat +
+       Emmanuel HUGONNET – Johan MARTINSSON – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Agile Grenoble |Grenoble |Novembre 2010
+| 3+a|Exigences Exécutables Efficaces : "Doing the Right Software" +
+      Bruno ORSIER – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Agile Tour |Genève, Grenoble et Valence |Octobre 2009
+| 3+a|Pour passer la crise, remboursez votre dette technique ! +
+	  Freddy MALLET – Rémy SANLAVILLE
+| 3+a|Soigner sa schizophrénie MOA/MOE - Voyage au pays des spécifications exécutables +
+	  Emmanuel HUGONNET – Hervé LOURDIN – Rémy SANLAVILLE
+| 3+a|Coding Dojo - Kata sur le pilotage par les tests d'acceptances (ATDD) +
+	  Emmanuel HUGONNET – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|CITCON |Paris |Septembre 2009
+| 3+a|Participation à la conférence internationale sur l’intégration continue et les tests qui se déroule en open space.
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Université du SI |Paris |Juillet 2009
+| 3+a|La face cachée de la mesure : une opportunité pour votre amélioration continue +
+      Benoit LAFONTAINE – Hervé LOURDIN – Fabrice ROBINI – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|XP Day France |Paris |Mai 2009
+| 3+a|Soigner sa schizophrénie MOA/MOE - Voyage au pays des spécifications exécutables +
+	  Emmanuel HUGONNET – Hervé LOURDIN – Rémy SANLAVILLE
+| 3+a|Coding-dojo : un retour d’expérience +
+	  Emmanuel HUGONNET – Rémy SANLAVILLE
+| 3+a|De l’atelier à l’usine logicielle : Enjeux et Retour d’expérience d’Orange Labs
+	  Emmanuel HUGONNET – Rémy SANLAVILLE
+|===
+
+[%header, grid="none", frame="none", cols="1,6,8,>8"]
+|===
+2+|Agile Tour |Grenoble |Octobre 2008
+| 3+a|LMise en place d'outils d'ingénierie logicielle pour industrialiser le développement Agile chez Orange Labs +
+      Emmanuel HUGONNET – Rémy SANLAVILLE
+|===
+
+
